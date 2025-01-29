@@ -57,7 +57,6 @@ Thumbs.db
 ehthumbs.db
 
 # Ignore Unreal Engine cache files
-*.uasset
 *.umap
 *.upk
 
